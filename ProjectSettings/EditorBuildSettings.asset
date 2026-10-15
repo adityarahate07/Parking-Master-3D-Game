@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - m_Enabled: 1
+    m_Path: Assets/Scenes/MainMenu.unity
+    m_Guid: 00000000000000000000000000000001
+  - m_Enabled: 1
+    m_Path: Assets/Scenes/LevelSelect.unity
+    m_Guid: 00000000000000000000000000000002
+  - m_Enabled: 1
+    m_Path: Assets/Scenes/Garage.unity
+    m_Guid: 00000000000000000000000000000003
+  - m_Enabled: 1
+    m_Path: Assets/Scenes/Level01.unity
+    m_Guid: 00000000000000000000000000000004
+  - m_Enabled: 1
+    m_Path: Assets/Scenes/Level02.unity
+    m_Guid: 00000000000000000000000000000005
+  - m_Enabled: 1
+    m_Path: Assets/Scenes/Level03.unity
+    m_Guid: 00000000000000000000000000000006
+  - m_Enabled: 1
+    m_Path: Assets/Scenes/Level04.unity
+    m_Guid: 00000000000000000000000000000007
+  - m_Enabled: 1
+    m_Path: Assets/Scenes/Level05.unity
+    m_Guid: 00000000000000000000000000000008
+  - m_Enabled: 1
+    m_Path: Assets/Scenes/Level06.unity
+    m_Guid: 00000000000000000000000000000009
+  - m_Enabled: 1
+    m_Path: Assets/Scenes/Level07.unity
+    m_Guid: 0000000000000000000000000000000a
+  - m_Enabled: 1
+    m_Path: Assets/Scenes/Level08.unity
+    m_Guid: 0000000000000000000000000000000b
+  - m_Enabled: 1
+    m_Path: Assets/Scenes/Level09.unity
+    m_Guid: 0000000000000000000000000000000c
+  - m_Enabled: 1
+    m_Path: Assets/Scenes/Level10.unity
+    m_Guid: 0000000000000000000000000000000d
